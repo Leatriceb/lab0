@@ -1,0 +1,22 @@
+#header {
+  background-color: #F333FF;
+  color: #FFFFFF;
+  padding: 55px;
+  font-size: 50px;
+  text-align: center;
+}
+.info {
+  background-color: #033A61;
+  color: #FFFFFF;
+  font-size: 14px;
+  text-align: center;
+}
+.pic {
+  background-color: #033A61;
+  text-align: center;
+}
+#table_head {
+  background-color: #55B3F6;
+  color: #FFFFFF;
+  font-size: 24px
+}
